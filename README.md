@@ -54,7 +54,7 @@ During testing, several issues were identified:
 
 ## Project Purpose
 
-This project was developed as part of a QA training program.
+This project was developed as part of a QA engineering bootcamp.
 
 It demonstrates practical knowledge of:
 
